@@ -1,8 +1,11 @@
 * {box-sizing: border-box;}
 
 body {
-    background-color: rgb(105, 96, 228);
+    
     height: 1000px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    
 }
 
 main { 
@@ -132,3 +135,8 @@ img {
   "Robopic Robopic laptoppic textsample"
   }    
 }
+
+.style { 
+   
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;;}
